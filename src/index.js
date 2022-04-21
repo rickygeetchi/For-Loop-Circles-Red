@@ -14,7 +14,7 @@ class Box{
         div.style.borderRadius = this.circle;
         div.style.backgroundColor = this.color;
         body.appendChild(div);
-        console.log('work')
+       
     }
 }
 
